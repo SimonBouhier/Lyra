@@ -1,7 +1,7 @@
 ## Document de Référence Générique — Cadre Protecteur & Fondateur de Lyra™
 
 **Nom de l’œuvre :** Lyra™ – Système Cognitif Modulant et Résonant  
-**Auteur :** [Ton Nom ici]  
+**Auteur :** [Simon Bouhier]  
 **Statut :** Création originale (avril 2025) – non dérivée – à expression multi-niveaux (texte, modules, activation).
 
 ---
