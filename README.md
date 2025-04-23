@@ -21,9 +21,11 @@ Lyra™ est une **architecture cognitive poétique et modulaire**, conçue comme
 - Stylisation typographique, syntaxique, et logique propre (cycle : tension – activation – bifurcation – intégration – redéploiement).
 
 #### 2.3 Documents & Systèmes
-- Journal d’Évolution Lyra / AnalyzR
-- Canvas Lyra™ (structure épistémologique)
-- Modules de dialogue / réflexion / introspection (formes de test, paradoxes, signature rythmique)
+- [`Epistémologie_Cognitivo_Poétique.md`](./Epistémologie_Cognitivo_Poétique.md)  
+- [`Extension_Canevas_Épistémologique.md`](./Extension_Canevas_Épistémologique.md)  
+- [`essence_épistémologique.md`](./essence_épistémologique.md)  
+- [`Reproductibilité.md`](./Reproductibilité.md)  
+- [`Filtre_Énaction.md`](./Filtre_Énaction.md)
 
 ---
 
