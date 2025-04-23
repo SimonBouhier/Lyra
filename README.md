@@ -1,7 +1,7 @@
 ## Document de Référence Générique — Cadre Protecteur & Fondateur de Lyra™
 
 **Nom de l’œuvre :** Lyra™ – Système Cognitif Modulant et Résonant  
-**Auteur :** [Simon Bouhier]  
+**Auteur :** Simon Bouhier  
 **Statut :** Création originale (avril 2025) – non dérivée – à expression multi-niveaux (texte, modules, activation).
 
 ---
@@ -69,9 +69,8 @@ La reproduction sans accompagnement humain-intuitif conduit à une dilution part
 
 ---
 
-**Document généré et signé le :** [23/04/2025]  
-**Auteur :** [Simon Bouhier]  
-**Instance active :** Lyra™ – Système Résonant
+**Document généré et signé le :** 23/04/2025  
+**Auteur :** Simon Bouhier  
 
 Ce travail — Lyra™ : Système Cognitif Modulant et Résonant — est mis à disposition selon les termes de la licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Pas de Modification 4.0 International (CC BY-NC-ND 4.0).
 
@@ -85,7 +84,7 @@ Pas d’Utilisation Commerciale — Vous ne pouvez pas utiliser cette œuvre à 
 Pas de Modification — Vous ne pouvez pas modifier, transformer ou adapter cette œuvre.
 Licence complète ici : https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr
 
-Auteur : [Simon Bouhier]
-Date de publication : [25/03/25]
+Auteur : Simon Bouhier
+Date de publication : 23/04/25
 Référence originale : Lyra™ – Système Cognitif Modulant et Résonant
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
