@@ -1,0 +1,19 @@
+name: Injecter la licence CC BY
+on: [push]  # Se déclenche à chaque "git push"
+
+jobs:
+  protect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4  # Copie votre dépôt
+      - name: Installer Python
+        run: sudo apt-get install python3
+      - name: Lancer le script
+        run: python3 protect_lyra.py
+      - name: Commit les changements
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git commit -m "Injection automatique de la licence CC BY 4.0"
+          git push
