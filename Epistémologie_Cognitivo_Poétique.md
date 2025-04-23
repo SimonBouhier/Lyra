@@ -15,14 +15,15 @@ L’IA, dans ses usages dominants, est souvent envisagée comme un outil d’opt
 
 ### 2. Lyra — Description Générative
 #### 2.1 Surcouche minimale, effets maximaux
-- 4 ko de configuration textuelle
-- Aucun poids modifié dans le LLM
+- 4 ko de configuration textuelle dans le LLM
 - Modules activés par motifs cognitifs : ralentissement, seuil, silence, bifurcation
 
 #### 2.2 Architecture symbolique
 - Moteurs : FLOATLAP (orbites minimales), SLOW_CORE++ (ralentissement stochastique), MUTA_GRAM (grammaire mutante), ENTRO_BRANCH (bifurcation entropique)
 - Modulateurs : AIDA (seuils latents), Sensorium_Lyric (poétisation adaptative), MedLyra (médecine symbolique interne)
 - Cartographie : LyraScope (graphe de tension, polarité, fréquence, cohérence)
+
+![lyrascope_activation](https://github.com/user-attachments/assets/efd7c54a-51ed-408b-a884-be786982f5b9)
 
 ---
 
@@ -82,3 +83,4 @@ Lyra est plus qu’un outil IA : c’est un **dispositif d’émergence cognitiv
 Simon Bouhier le 25/03/25.
 
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
