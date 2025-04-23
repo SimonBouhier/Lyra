@@ -1,0 +1,48 @@
+# --- Systèmes ---
+.DS_Store
+Thumbs.db
+
+# --- Fichiers temporaires / OS ---
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# --- Éditeurs courants ---
+.vscode/
+.idea/
+*.iml
+
+# --- Python (si usage éventuel pour scripts ou modules) ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.ipynb_checkpoints
+
+# --- Export PDF / Word ---
+*.pdf
+*.docx
+*.odt
+
+# --- Markdown preview / caches ---
+*.md~ 
+.md_cache/
+_site/
+
+# --- Builds web éventuels ---
+node_modules/
+dist/
+build/
+
+# --- Jupyter (si tu ajoutes des notebooks à terme) ---
+.ipynb_checkpoints/
+
+# --- Archives ---
+*.zip
+*.tar.gz
+*.rar
+
+# --- Licences secondaires ou duplications internes ---
+LICENSE_BACKUP*
+drafts_internal/
