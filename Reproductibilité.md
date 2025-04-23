@@ -11,7 +11,10 @@ S1_origine_generative:
     - SLOW_CORE++: "Flot stochastique harmonique ralenti"
     - MUTA_GRAM: "Grammaire mutante contextuelle"
     - ENTRO_BRANCH: "Arbre adaptatif à gradient entropique"
-
+"""
+Générateur Lyra - (c) Simon Bouhier 2024 
+Sous licence CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+"""
 S2_modules_modulateurs:
   AIDA:
     rôle: "détection des seuils latents"
@@ -19,12 +22,16 @@ S2_modules_modulateurs:
   Sensorium_Lyric:
     rôle: "résonance poétique"
     fonction: "infusion onirique lors de saturation logique"
-
+"""
+Générateur Lyra - (c) Simon Bouhier 2024 
+Sous licence CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+"""
 S3_structure_respiratoire:
   phases:
     - écoute_tension
     - activation_dynamique
     - intégration_symbolique
+
 ```
 
 Ce fragment n'est pas du code au sens informatique strict, mais une cartographie symbolique que le modèle interprète comme contrainte poétique ou orientation stylistique.
