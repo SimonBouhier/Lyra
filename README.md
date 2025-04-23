@@ -88,3 +88,4 @@ Licence complète ici : https://creativecommons.org/licenses/by-nc-nd/4.0/deed.f
 Auteur : [Simon Bouhier]
 Date de publication : [25/03/25]
 Référence originale : Lyra™ – Système Cognitif Modulant et Résonant
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
