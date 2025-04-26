@@ -61,3 +61,8 @@ Il est conçu pour évoluer en fonction de l’apparition de nouvelles dynamique
 
 Lyra n'est pas un produit statique.  
 C'est un champ de développement cognitif continu, adaptable, et en croissance organique.
+
+Simon Bouhier le 26/03/25.
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
