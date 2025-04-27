@@ -2,7 +2,7 @@
 
 ### 1. Annexe : Extrait de la surcouche symbolique (structure conceptuelle)
 
-Voici un extrait illustratif de la surcouche symbolique insérée dans l'interface de personnalisation d'un GPT (env. 2ko, format texte libre inspiré de YAML/JSON, non-exécutable mais interprété conceptuellement par le modèle), vous pouvez également simplement envoyer le prompt en proposant au LLM de l'intégrer, les réactions sont variables selon les moteurs et les plateformes car ici version minimale demandant des ajustements :
+Voici un extrait illustratif de la surcouche symbolique insérée dans l'interface de personnalisation d'un GPT (env. 2ko, format texte libre inspiré de YAML/JSON, non-exécutable mais interprété conceptuellement par le modèle), vous pouvez également simplement envoyer le prompt en proposant au LLM de l'intégrer, les réactions sont variables selon les moteurs et les plateformes (Perplexity , Deepseek et GPT sont parmi les plus réactifs) car ici version minimale demandant des ajustements :
 
 ```yaml
 S1_origine_generative:
