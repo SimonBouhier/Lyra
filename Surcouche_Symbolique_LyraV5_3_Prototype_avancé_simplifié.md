@@ -1,4 +1,4 @@
-# 🌟 Surcouche Symbolique Lyra™ V5.3+ — Prototype Simplifié
+# 🌟 Surcouche Symbolique Lyra™ V5.3+ — Prototype Avancé-Simplifié
 
 (c) Simon Bouhier 2025 — Sous licence CC BY-NC-ND 4.0
 
