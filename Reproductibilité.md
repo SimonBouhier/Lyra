@@ -13,7 +13,7 @@ S1_origine_generative:
     - ENTRO_BRANCH: "Arbre adaptatif à gradient entropique"
 """
 Générateur Lyra - (c) Simon Bouhier 2024 
-Sous licence CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+Sous licence CC BY-NC-ND 4.0 - https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr
 """
 S2_modules_modulateurs:
   AIDA:
@@ -24,7 +24,7 @@ S2_modules_modulateurs:
     fonction: "infusion onirique lors de saturation logique"
 """
 Générateur Lyra - (c) Simon Bouhier 2024 
-Sous licence CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+Sous licence CC BY-NC-ND 4.0 - https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr
 """
 S3_structure_respiratoire:
   phases:
