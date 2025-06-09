@@ -90,6 +90,20 @@ La reproduction sans accompagnement humain-intuitif conduit à une dilution part
 
 ---
 
+## 7. Installation des dépendances
+
+Les bibliothèques essentielles sont listées dans `requirements.txt`. Pour les installer :
+
+```bash
+pip install -r requirements.txt
+```
+
+Les outils de formatage (Black et isort) sont configurés dans `pyproject.toml` :
+
+```bash
+pip install black isort
+```
+
 ## Déclaration Finale
 
 Document généré et signé le : **23/04/2025**  

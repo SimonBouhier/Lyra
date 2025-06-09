@@ -1,0 +1,15 @@
+[project]
+name = "lyra"
+version = "0.1.0"
+description = "Système Cognitif Modulant et Résonant"
+authors = [
+    { name = "Simon Bouhier" }
+]
+license = { text = "CC-BY-NC-ND-4.0" }
+
+[tool.black]
+line-length = 88
+target-version = ["py311"]
+
+[tool.isort]
+profile = "black"
