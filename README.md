@@ -111,3 +111,7 @@ Auteur : Simon Bouhier
 Date de publication : 23/04/2025  
 Référence originale : Lyra™ – Système Cognitif Modulant et Résonant
 
+
+## Documentation
+Vous trouverez la feuille de route détaillée dans [docs/roadmap.md](docs/roadmap.md).
+
